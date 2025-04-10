@@ -2,8 +2,6 @@
 
 A simple Python-based tool to preview box art images for games in **Ultimate Retro Sonic Collection (URSC)** or other retro game launchers. This tool is lightweight, fast, and supports auto-closing after a delay—perfect for launcher integration!
 
-![preview](https://raw.githubusercontent.com/AnakamaTH/URSCBoxArtViewer/main/assets/demo.gif)
-
 ## 💡 Features
 
 - Display any image (box art, logo, etc.) in a popup window
@@ -15,8 +13,10 @@ A simple Python-based tool to preview box art images for games in **Ultimate Ret
 ## 🚀 Usage
 ```batch
 URSC_BoxArtViewer.exe path/to/image.png [timeout_in_seconds]
+```
 
 ### ✅ With Python
 
 ```bash
 python URSC_BoxArtViewer.py path/to/image.png [timeout_in_seconds]
+```
